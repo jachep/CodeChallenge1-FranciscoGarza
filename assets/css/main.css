@@ -1,0 +1,32 @@
+
+/*Nav Header */
+.navbar-text {
+    text-align: center;
+    font-size: 25px;
+}
+
+.top    {
+    margin-bottom: 10px;
+    background-color: #E91E63;
+    color: white;
+}
+
+.backButton {
+    color:white;
+    font-size: 25px;
+    line-height: 25px;
+}
+
+/*Pokemon Description */
+
+.display {
+    color: #949494;
+    font-size: 10px;
+}
+
+.display h2 {
+    color: #E91E63;
+    font-size: 20px;
+    line-height: 20px;
+}
+
