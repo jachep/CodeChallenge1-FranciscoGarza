@@ -1,7 +1,6 @@
 
 /*Navigation Header */
 .navbar-text {
-    text-align: center;
     font-size: 25px;
 }
 
@@ -13,8 +12,7 @@
 
 .backButton {
     color:white;
-    font-size: 25px;
-    line-height: 25px;
+    font-size: 30px;
 }
 
 /*Pokemon Description */
@@ -68,3 +66,64 @@
     color: #949494;
 }
 
+/* General Information */
+.panel {
+    margin-bottom: 0px !important;
+}
+
+.grlDesc {
+    margin-top: 10px;
+}
+
+.panel-heading {
+    background-color: #949494 !important;
+}
+
+.panel-title {
+    color: white;
+}
+
+.table>tbody>tr>td {
+    color: #949494;
+    padding-left: 15px;
+}
+
+.descTitle {
+    font-size: 16px;
+    color:  #949494;
+}
+
+/* Evolution Section */
+
+.evoImg {
+    max-height: 80px;
+    margin: 10px 0 10px 40px;
+    border: solid .2px #E7E3E3;
+}
+
+.pokeNum {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+    color: #949494;
+}
+
+.evoName {
+    font-size: 22px;
+}
+
+.evoLvl {
+    font-size: 12px;
+    margin-left: 5px;
+}
+
+span.bug {
+    background-color: #67AB9F;
+}
+
+span.grass {
+    background-color: #97D077;
+}
+span.poison {
+    background-color: #7F628C;
+}
