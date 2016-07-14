@@ -3,12 +3,12 @@
 
 ## Demo
 
-Initial Interface for Challenge #1
+ScreenShot of the Final Interface for Challenge #1
 
 ![Demo](assets/demo.jpg)
 
 ## Requirements
 
-- [X] Mobile first
+- [X] Mobile First (Mobile Only).
 - [X] Use Less for CSS
-- [X] Use Bootstrap UI
+- [X] Use Bootstrap3 for the UI
