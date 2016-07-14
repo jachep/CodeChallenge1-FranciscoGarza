@@ -5,7 +5,7 @@
 
 Initial Interface for Challenge #1
 
-![Demo1](assets/demo.jgg)
+![Demo](assets/demo.jpg)
 
 ## Requirements
 
