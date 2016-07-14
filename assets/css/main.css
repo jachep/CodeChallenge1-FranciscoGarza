@@ -1,5 +1,5 @@
 
-/*Nav Header */
+/*Navigation Header */
 .navbar-text {
     text-align: center;
     font-size: 25px;
@@ -24,7 +24,7 @@
 }
 
 .title {
-    margin: 10px 0 10px 0;
+    margin: 10px 0 5px 0;
 }
 
 .title img {
@@ -43,7 +43,28 @@
     line-height: 35px;
 }
 
+.noPadding {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
 .icons img {
-    margin-left: 8px;
+    margin-left: 5px;
+}
+
+.info h3 {
+    color: #949494;
+    font-size: 14px;
+    line-height: 10px;
+    margin: 0px !important;
+}
+
+.info ul {
+    margin: 5px 0 5px 0 !important;
+}
+
+.desc {
+    font-size: 12px;
+    color: #949494;
 }
 
